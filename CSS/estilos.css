@@ -1,0 +1,40 @@
+html{
+    background-color: rgba(188, 250, 118, 0.781);
+    text-align: center;
+}
+
+.favoritos{
+background-color: rgb(27, 39, 169);
+color: whitesmoke;
+}
+.favoritos article a{
+    color: aquamarine;
+}
+
+.destacados{
+    background-color: rgb(64, 62, 222);
+    color: whitesmoke;
+}
+.destacados article a{
+    color: orchid;
+}
+
+.registro{
+    background-color:rgba(39, 56, 241, 0.762);
+    color: white;
+}
+
+header{
+    background-color: cornflowerblue;
+}
+
+main{
+    background-color: rgb(10, 20, 57);
+}
+
+footer{
+    background-color: rgb(103, 103, 245);
+    color: white;
+}
+
+
